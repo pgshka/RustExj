@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "pig.rustexj.mixins",
+  "refmap": "mixins.rustexj.refmap.json",
+  "mixins": [
+    "AccessorCPacketCustomPayload",
+    "MixinNetworkManager"
+  ]
+}

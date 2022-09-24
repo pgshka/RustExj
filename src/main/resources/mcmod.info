@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rust",
+  "name": "exj",
+  "description": "forge-bypass for RustEx (not remake)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PigHax"],
+  "credits": "xd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
